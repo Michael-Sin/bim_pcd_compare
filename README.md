@@ -29,7 +29,11 @@ python main.py
 The program will output ```abnormal.ply```, ```xxx__normal.ply``` and ```xxx_bim_pcd.ply```.
 
 
-
+## Data visualization
+Please run 
+```bash
+python bim-visualization.py
+```
 
 
 ## Under development
